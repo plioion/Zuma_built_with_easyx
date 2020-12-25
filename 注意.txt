@@ -1,0 +1,2 @@
+请保持resource文件夹正确放置在可执行文件对应目录中以正确加载音乐和贴图
+GameRanking在resource文件夹同目录中
